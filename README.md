@@ -27,7 +27,7 @@ The analysis of the election show that:
 	- Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
-New to learning Python and faced normal beginner challenges.
+...
 
 ## Challenge Summary
-This is my first time coding in Python, therefore I had to both install all the appropriate tools to my PC and learn a new language. However, this project provided a multitude of different syntax and functions to get me started on some of the basics. It also showed me how to import data from a CSV file and export analysis to a text file which I forsee myself doing a lot in the future.
+...
